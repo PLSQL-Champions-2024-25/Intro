@@ -49,7 +49,7 @@ This assignment involves designing and implementing a database system to manage 
 - Join the GitHub Organization repository: [ClickMe](https://github.com/[OrganizationName]).  
 
 #### Set Up a Repository  
-- Create a new private repository (e.g., `grp_studentId_firstName_lastName_assI`).  
+- Create a new private repository (e.g., `grp_studentId_firstName_lastName_assI`, etc).  
   Example: `mon_12125_eric_maniraguha_assI`, `tue_12125_eric_maniraguha_assI`.  
 
 #### Upload Your Script  
